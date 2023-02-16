@@ -433,6 +433,7 @@ apache.org/) |
 | tallison | Tim Allison | [PDFBox](http://pdfbox.apache.org/) ; [POI](http://poi.apache.org/) ; [Tika](http://tika.apache.org/) |
 | tcurdt | [Torsten Curdt](https://torstencurdt.com) | [Cocoon](https://cocoon.apache.org/), [Commons](https://commons.apache.org/), [Jakarta](https://jakarta.apache.org/)|
 | tdunning | Ted Dunning |
+| tedliu | Ted Liu |
 | tellison | Tim Ellison |
 | tgraves | Thomas Graves |
 | thiagohp | [Thiago H. de Paula Figueiredo](http://machina.com.br) | [Tapestry](http://tapestry.apache.org) |
